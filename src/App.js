@@ -1,5 +1,9 @@
 import "./App.css";
-import 'bootstrap-icons/font/bootstrap-icons.css';
+import 'bootstrap-icons/bootstrap-icons.css';
+
+
+
+
 
 function App() {
   return (
